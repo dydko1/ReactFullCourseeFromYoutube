@@ -1,13 +1,9 @@
-import Header from "./Header";
-import Footer from "./Footer";
-import Food from "./Food";
+import DigitalClock from "./DigitalClock";
 
 function App() {
   return (
     <>
-      <Header />
-      <Food/>
-       <Footer/>
+     <DigitalClock/>
     </>
   );
 }
