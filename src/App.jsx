@@ -1,4 +1,4 @@
-import DigitalClock from "./DigitalClock";
+import DigitalClock from "./old/lesson19/DigitalClock";
 
 function App() {
   return (
