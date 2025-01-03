@@ -1,11 +1,13 @@
-import StopWatch from "./StopWatch";
+import ConditionalComponent from "./components/old_/lesson16/ConditionalComponent"
+
 
 function App() {
+
   return (
     <>
-      <StopWatch />
+      <ConditionalComponent />
     </>
-  );
+  )
 }
 
-export default App;
+export default App
