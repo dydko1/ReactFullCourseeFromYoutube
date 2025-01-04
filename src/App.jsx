@@ -1,12 +1,11 @@
-import ConditionalComponent from "./components/old_/lesson16/ConditionalComponent"
-
+import Message from "./Message";
 
 function App() {
 
   return (
-    <>
-      <ConditionalComponent />
-    </>
+    <div className="App">
+      <Message />
+    </div>
   )
 }
 
