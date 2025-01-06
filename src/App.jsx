@@ -1,10 +1,10 @@
-import Message from "./Message";
+import Form25 from "./components/old_/lesson25/Form25";
 
 function App() {
 
   return (
     <div className="App">
-      <Message />
+      <Form25 />
     </div>
   )
 }
