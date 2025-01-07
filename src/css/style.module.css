@@ -1,0 +1,11 @@
+.header {
+  color: gray;
+  background-color: rgb(166, 255, 0);
+  font-size: 40px;
+}
+
+.outline-header {
+  color: rgb(218, 13, 13);
+  background-color: rgb(47, 0, 255);
+  font-size: 40px;
+}

@@ -1,10 +1,13 @@
-import Form25 from "./components/old_/lesson25/Form25";
+import Header from "./components/old_/lesson30todolist/Header"
+import Todo from "./components/old_/lesson30todolist/ToDo"
+
 
 function App() {
 
   return (
     <div className="App">
-      <Form25 />
+      <Header />
+      <Todo />
     </div>
   )
 }
