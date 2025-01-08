@@ -19,7 +19,6 @@ function App() {
         <Search foodData={foodData} setFoodData={setFoodData} />
       </InnerContainer >
       <FoodList foodId={foodId} setFoodId={setFoodId} foodData={foodData} />
-
     </div>
   )
 }
